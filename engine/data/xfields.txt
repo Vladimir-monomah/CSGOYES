@@ -1,0 +1,5 @@
+img|Картинка||image||0|0|0|0|1|1|0|0||||||||
+price|Цена||text||0|0|0|0|||0|0||||||||
+key|Тип товара||select|Лицензионный ключ&#124;Ключ__NEWL__Аккаунт&#124;Аккаунт|0|0|0|0|||0|0||||||||
+tip|Активация в||select|<img src="{THEME}/img/steam-icon.png" class="activate-icon">Steam&#124; Steam__NEWL__<img src="{THEME}/img/bnet-icon.png" class="activate-icon"> Battle.Net&#124; Battle.Net__NEWL__<img src="{THEME}/img/origin-icon.png" class="activate-icon"> Origin&#124;Origin__NEWL__<img src="{THEME}/img/mine-icon.png" class="activate-icon"> MineCraft&#124;MineCraft__NEWL__<img src="{THEME}/img/UPlay-icon.png" class="activate-icon"> UPlay&#124;UPlay|0|0|0|0|||0|0||||||||
+link|Ссылка||text||0|0|0|0|||0|0||||||||

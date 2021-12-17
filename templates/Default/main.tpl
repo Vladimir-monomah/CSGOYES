@@ -10,33 +10,32 @@
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container">
-    <a class="navbar-brand" href="/"><img src="{THEME}/img/youtube/avatar.jpg"  class="rounded-circle nav-avatar">
-      <div class="nav-logo"><span class="nav-logo-label">CSGOYES</span>
-        <span class="nav-logo-url">Верификация <img src="{THEME}/img/you-check.png"></span></div></a>
+    <img src="{THEME}/img/youtube/avatar.jpg"  class="rounded-circle nav-avatar">
     <span class="navbar-text">
     <ul class="navbar-nav sale">
           <li class="nav-item headcrab nav-li-bg">
             <a class="nav-link" href="/sale.html"><img src="{THEME}/img/sale-icon.png" alt="">Продать</a>
-          </li>
-          <ul class="navbar-nav reviews">
+          </li>  
           <li class="nav-item headcrab nav-li-bg">
             <a class="nav-link" href="/reviews.html"><img src="{THEME}/img/reviews-icon.png" alt="">Отзывы</a>
           </li>
-        <ul class="navbar-nav headul">
-          <li class="nav-item headcrab nav-li-bg">
+         <!-- <li class="nav-item headcrab nav-li-bg">
             <a class="nav-link" href="/garant.html"><img src="{THEME}/img/garant-icon.png" alt="">Гарантии</a>
-          </li>
+          </li>-->
           <li class="nav-item headcrab nav-li-bg">
             <a class="nav-link" href="/manual.html"><img src="{THEME}/img/heart-icon.png" alt="">Помощь</a>
           </li>
           <li class="nav-item headcrab random-li nav-li-bg">
-            <a class="nav-link" href="/contacts.html"><img src="{THEME}/img/envelope-icon.png" alt="">Контакты</a>
+            <a class="nav-link" href="/auction.html"><img src="{THEME}/img/envelope-icon.png" alt="">Аукцион</a>
           </li>
-          
+          <li class="nav-item headcrab random-li nav-li-bg">
+            <a class="nav-link" href="/reg.html"><img src="{THEME}/img/reg-icon.png" alt="">Авторизация</a>
+          </li>
         </ul>
       </span>
   </div>
 </nav>  
+
 [available=main]
   <div class="container wrapper">
     <ul class="nav nav-tabs" role="tablist">

@@ -6,8 +6,12 @@
   <link rel="stylesheet" href="{THEME}/css/creative.css">
   <link rel="icon" href="{THEME}/img/favicon.png" type="image/png">
    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:400,500&amp;subset=cyrillic">
+   <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 </head>
 <body>
+
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container">
     <img src="{THEME}/img/youtube/avatar.jpg"  class="rounded-circle nav-avatar">
@@ -28,10 +32,14 @@
           <li class="nav-item headcrab random-li nav-li-bg">
             <a class="nav-link" href="/auction.html"><img src="{THEME}/img/envelope-icon.png" alt="">Аукцион</a>
           </li>
-          <li class="nav-item headcrab random-li nav-li-bg">
+          <li class="nav-item headcrab random-li nav-li-bg auth">
             <a class="nav-link" href="/reg.html"><img src="{THEME}/img/reg-icon.png" alt="">Авторизация</a>
           </li>
         </ul>
+       <form action="" method="post" class="search">
+	<input type="search" name="" placeholder="Я ищу..." class="input" />
+	<input type="submit" name="" value="" class="submit" />
+</form>
       </span>
   </div>
 </nav>  

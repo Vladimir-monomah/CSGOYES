@@ -40,6 +40,14 @@
 	<input type="search" name="" placeholder="Я ищу..." class="input" />
 	<input type="submit" name="" value="" class="submit" />
 </form>
+
+<div class="dropdown">
+  <div class="dropbtn">RU</div>
+  <div class="dropdown-content">
+    <a href="#">RU</a>
+    <a href="#">EN</a>
+  </div>
+</div>
       </span>
   </div>
 </nav>  

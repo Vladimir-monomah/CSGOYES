@@ -12,6 +12,20 @@
 </head>
 <body>
 
+
+<!--<input type="checkbox" id="nav-toggle" hidden>
+<nav class="nav">
+<label for="nav-toggle" class="nav-toggle" onclick></label>
+<h2 class="logo"> 
+            <a href="//CSGOYES.ru/">CSGOYES</a> 
+        </h2>
+        <ul>
+            <li><a href="#1">Counter-Strake</a>
+            <li><a href="#2">Dota 2</a>
+            <li><a href="#3">Rust</a>
+        </ul>
+</nav>-->
+
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container">
     <img src="{THEME}/img/youtube/avatar.jpg"  class="rounded-circle nav-avatar">
@@ -54,7 +68,40 @@
 
 [available=main]
   <div class="container wrapper">
-    <ul class="nav nav-tabs" role="tablist">
+
+<div class="colp">
+
+<div class="colp-item">
+  <div class="colp-pict">
+    <a href="#"><img src="templates/Default/img/capsule_616x353.jpg" alt=""></a>
+    <div class="ak"><a href="#" class="colp-pict-link">Аккаунты</a><br>Продажа скинов<br>Буст аккаунта<br>Операция</div>
+  </div>
+</div>
+
+<div class="colp-item">
+  <div class="colp-pict">
+    <a href="#"><img src="templates/Default/img/capsule_616x353.jpg" alt=""></a>
+    <div class="ak"><a href="#" class="colp-pict-link">Аккаунты</a><br>Продажа скинов<br>Буст аккаунта<br>Операция</div>
+  </div>
+</div>
+
+<div class="colp-item">
+  <div class="colp-pict">
+    <a href="#"><img src="templates/Default/img/capsule_616x353.jpg" alt=""></a>
+    <div class="ak"><a href="#" class="colp-pict-link">Аккаунты</a><br>Продажа скинов<br>Буст аккаунта<br>Операция</div>
+  </div>
+</div>
+
+<div class="colp-item">
+  <div class="colp-pict">
+    <a href="#"><img src="templates/Default/img/capsule_616x353.jpg" alt=""></a>
+    <div class="ak"><a href="#" class="colp-pict-link">Аккаунты</a><br>Продажа скинов<br>Буст аккаунта<br>Операция</div>
+  </div>
+</div>
+
+</div>
+
+   <!-- <ul class="nav nav-tabs" role="tablist">
       <li class="nav-item col-sm-6 tab-item">
         <a class="nav-link" href="#accounts" role="tab" data-toggle="tab" aria-selected="false"><span class="nav-tabs-acc">Аккаунты</span></a>
       </li>
@@ -125,7 +172,7 @@
   </div>
   [not-available=main]  </div> [/not-available]
 [available=main]</footer>[/available]
-</div>
+</div>-->
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>

@@ -4,7 +4,7 @@
 
 $config = array (
 
-'home_title' => 'CSGO',
+'home_title' => 'CSGOYES',
 
 'http_home_url' => 'http://play/',
 
@@ -31,8 +31,6 @@ $config = array (
 'allow_admin_wysiwyg' => '1',
 
 'allow_static_wysiwyg' => '1',
-
-'site_offline' => '1',
 
 'offline_reason' => 'Сайт находится на текущей реконструкции, после завершения всех работ сайт будет открыт.<br><br>Приносим вам свои извинения за доставленные неудобства.',
 
@@ -311,6 +309,8 @@ $config = array (
 'seo_control' => '0',
 
 'allow_complaint_mail' => '0',
+
+'site_offline' => '0',
 
 'log_hash' => '0',
 

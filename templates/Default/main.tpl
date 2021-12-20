@@ -13,7 +13,7 @@
 <body>
 
 
-<!--<input type="checkbox" id="nav-toggle" hidden>
+<input type="checkbox" id="nav-toggle" hidden>
 <nav class="nav">
 <label for="nav-toggle" class="nav-toggle" onclick></label>
 <h2 class="logo"> 
@@ -24,7 +24,7 @@
             <li><a href="#2">Dota 2</a>
             <li><a href="#3">Rust</a>
         </ul>
-</nav>-->
+</nav>
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container">
@@ -74,28 +74,128 @@
 <div class="colp-item">
   <div class="colp-pict">
     <a href="#"><img src="templates/Default/img/capsule_616x353.jpg" alt=""></a>
-    <div class="ak"><a href="#" class="colp-pict-link">Аккаунты</a><br>Продажа скинов<br>Буст аккаунта<br>Операция</div>
+    <div class="ak"><a href="#" class="colp-pict-link">Аккаунты</a><br><a href="#" class="colp-pict-link">Продажа скинов</a>
+    <a href="#" class="colp-pict-link"><br>Буст аккаунта</a><br><a href="#" class="colp-pict-link">Операция</a></div>
   </div>
 </div>
 
 <div class="colp-item">
   <div class="colp-pict">
-    <a href="#"><img src="templates/Default/img/capsule_616x353.jpg" alt=""></a>
-    <div class="ak"><a href="#" class="colp-pict-link">Аккаунты</a><br>Продажа скинов<br>Буст аккаунта<br>Операция</div>
+    <a href="#"><img src="templates/Default/img/13br-evergreens-purpink-social-1920x1080-33eaaa6ccd57.jpg" alt=""></a>
+    <div class="ak"><a href="#" class="colp-pict-link">Аккаунты</a><br><a href="#" class="colp-pict-link">Продажа скинов</a>
+    <a href="#" class="colp-pict-link"><br>Буст аккаунта</a><br><a href="#" class="colp-pict-link">Операция</a></div>
   </div>
 </div>
 
 <div class="colp-item">
   <div class="colp-pict">
-    <a href="#"><img src="templates/Default/img/capsule_616x353.jpg" alt=""></a>
-    <div class="ak"><a href="#" class="colp-pict-link">Аккаунты</a><br>Продажа скинов<br>Буст аккаунта<br>Операция</div>
+    <a href="#"><img src="templates/Default/img/dota2_social.jpg" alt=""></a>
+    <div class="ak"><a href="#" class="colp-pict-link">Аккаунты</a><br><a href="#" class="colp-pict-link">Продажа скинов</a>
+    <a href="#" class="colp-pict-link"><br>Буст аккаунта</a><br><a href="#" class="colp-pict-link">Операция</a></div>
   </div>
 </div>
 
 <div class="colp-item">
   <div class="colp-pict">
-    <a href="#"><img src="templates/Default/img/capsule_616x353.jpg" alt=""></a>
-    <div class="ak"><a href="#" class="colp-pict-link">Аккаунты</a><br>Продажа скинов<br>Буст аккаунта<br>Операция</div>
+    <a href="#"><img src="templates/Default/img/e4e67668228df3eb050e64232a664f454ab7b030-1bdd.jpg" alt=""></a>
+    <div class="ak"><a href="#" class="colp-pict-link">Аккаунты</a><br><a href="#" class="colp-pict-link">Продажа скинов</a>
+    <a href="#" class="colp-pict-link"><br>Буст аккаунта</a><br><a href="#" class="colp-pict-link">Операция</a></div>
+  </div>
+</div>
+
+<div class="colp-item">
+  <div class="colp-pict">
+    <a href="#"><img src="templates/Default/img/ow2.jpg" alt=""></a>
+    <div class="ak"><a href="#" class="colp-pict-link">Аккаунты</a><br><a href="#" class="colp-pict-link">Продажа скинов</a>
+    <a href="#" class="colp-pict-link"><br>Буст аккаунта</a><br><a href="#" class="colp-pict-link">Операция</a></div>
+  </div>
+</div>
+
+<div class="colp-item">
+  <div class="colp-pict">
+    <a href="#"><img src="templates/Default/img/ss_1eb8686ba97a32e4a0c5008a72707f00342c1cca.1920x1080.jpg" alt=""></a>
+    <div class="ak"><a href="#" class="colp-pict-link">Аккаунты</a><br><a href="#" class="colp-pict-link">Продажа скинов</a>
+    <a href="#" class="colp-pict-link"><br>Буст аккаунта</a><br><a href="#" class="colp-pict-link">Операция</a></div>
+  </div>
+</div>
+
+<div class="colp-item">
+  <div class="colp-pict">
+    <a href="#"><img src="templates/Default/img/48b7d00b-45ef-4bf7-b3cc-30e0e5c07d1b.jpg" alt=""></a>
+    <div class="ak"><a href="#" class="colp-pict-link">Аккаунты</a><br><a href="#" class="colp-pict-link">Продажа скинов</a>
+    <a href="#" class="colp-pict-link"><br>Буст аккаунта</a><br><a href="#" class="colp-pict-link">Операция</a></div>
+  </div>
+</div>
+
+<div class="colp-item">
+  <div class="colp-pict">
+    <a href="#"><img src="templates/Default/img/7e4f9e95-52f8-44fd-91d7-1921d98c59c6-ss_8343a3ea65031a2721447f57fd9447decb504051.1920x1080.jpg" alt=""></a>
+    <div class="ak"><a href="#" class="colp-pict-link">Аккаунты</a><br><a href="#" class="colp-pict-link">Продажа скинов</a>
+    <a href="#" class="colp-pict-link"><br>Буст аккаунта</a><br><a href="#" class="colp-pict-link">Операция</a></div>
+  </div>
+</div>
+
+<div class="colp-item">
+  <div class="colp-pict">
+    <a href="#"><img src="templates/Default/img/Rust-Hero-image.jpg" alt=""></a>
+    <div class="ak"><a href="#" class="colp-pict-link">Аккаунты</a><br><a href="#" class="colp-pict-link">Продажа скинов</a>
+    <a href="#" class="colp-pict-link"><br>Буст аккаунта</a><br><a href="#" class="colp-pict-link">Операция</a></div>
+  </div>
+</div>
+
+<div class="colp-item">
+  <div class="colp-pict">
+    <a href="#"><img src="templates/Default/img/1097058.jpg" alt=""></a>
+    <div class="ak"><a href="#" class="colp-pict-link">Аккаунты</a><br><a href="#" class="colp-pict-link">Продажа скинов</a>
+    <a href="#" class="colp-pict-link"><br>Буст аккаунта</a><br><a href="#" class="colp-pict-link">Операция</a></div>
+  </div>
+</div>
+
+<div class="colp-item">
+  <div class="colp-pict">
+    <a href="#"><img src="templates/Default/img/Destiny-2.jpg" alt=""></a>
+    <div class="ak"><a href="#" class="colp-pict-link">Аккаунты</a><br><a href="#" class="colp-pict-link">Продажа скинов</a>
+    <a href="#" class="colp-pict-link"><br>Буст аккаунта</a><br><a href="#" class="colp-pict-link">Операция</a></div>
+  </div>
+</div>
+
+<div class="colp-item">
+  <div class="colp-pict">
+    <a href="#"><img src="templates/Default/img/DkPdykvWwAA6DGM.jpg" alt=""></a>
+    <div class="ak"><a href="#" class="colp-pict-link">Аккаунты</a><br><a href="#" class="colp-pict-link">Продажа скинов</a>
+    <a href="#" class="colp-pict-link"><br>Буст аккаунта</a><br><a href="#" class="colp-pict-link">Операция</a></div>
+  </div>
+</div>
+
+<div class="colp-item">
+  <div class="colp-pict">
+    <a href="#"><img src="templates/Default/img/471848-gamers-Hearthstone_Heroes_of_Warcraft-video_games.jpg" alt=""></a>
+    <div class="ak"><a href="#" class="colp-pict-link">Аккаунты</a><br><a href="#" class="colp-pict-link">Продажа скинов</a>
+    <a href="#" class="colp-pict-link"><br>Буст аккаунта</a><br><a href="#" class="colp-pict-link">Операция</a></div>
+  </div>
+</div>
+
+<div class="colp-item">
+  <div class="colp-pict">
+    <a href="#"><img src="templates/Default/img/thumb-1920-1128578.jpg" alt=""></a>
+    <div class="ak"><a href="#" class="colp-pict-link">Аккаунты</a><br><a href="#" class="colp-pict-link">Продажа скинов</a>
+    <a href="#" class="colp-pict-link"><br>Буст аккаунта</a><br><a href="#" class="colp-pict-link">Операция</a></div>
+  </div>
+</div>
+
+<div class="colp-item">
+  <div class="colp-pict">
+    <a href="#"><img src="templates/Default/img/2015375.jpg" alt=""></a>
+    <div class="ak"><a href="#" class="colp-pict-link">Аккаунты</a><br><a href="#" class="colp-pict-link">Продажа скинов</a>
+    <a href="#" class="colp-pict-link"><br>Буст аккаунта</a><br><a href="#" class="colp-pict-link">Операция</a></div>
+  </div>
+</div>
+
+<div class="colp-item">
+  <div class="colp-pict">
+    <a href="#"><img src="templates/Default/img/thumb-1920-313885.jpg" alt=""></a>
+    <div class="ak"><a href="#" class="colp-pict-link">Аккаунты</a><br><a href="#" class="colp-pict-link">Продажа скинов</a>
+    <a href="#" class="colp-pict-link"><br>Буст аккаунта</a><br><a href="#" class="colp-pict-link">Операция</a></div>
   </div>
 </div>
 

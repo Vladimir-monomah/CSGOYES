@@ -28,7 +28,7 @@ body {
 .navbar {
   height: 120px;
   box-shadow: 0 5px 20px 0 rgba(0, 0, 0, .06);
-  background-color: #fff!important
+  background-color: #7d57f3!important
 }
 
 .nav-avatar {
@@ -90,7 +90,7 @@ body {
 
 .navbar .nav-link {
   font-size: .95em;
-  color: #000!important;
+  color: #f9f6f6!important;
 }
 
 .navbar-text {

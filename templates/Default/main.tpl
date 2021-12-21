@@ -4,9 +4,10 @@
   {headers}
   <link rel="stylesheet" href="{THEME}/css/bootstrap.min.css">
   <link rel="stylesheet" href="{THEME}/css/creative.css">
+  <link rel="stylesheet" href="{THEME}/css/bootstrap.css">
   <link rel="icon" href="{THEME}/img/favicon.png" type="image/png">
    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:400,500&amp;subset=cyrillic">
-   <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+   <!--<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">-->
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 </head>
@@ -213,7 +214,7 @@
         {custom category="1" template="shortstory" limit="100000000000"}
           </div>
         </div>
-      </div>
+      </div>-->
 
       <div role="tabpanel" class="tab-pane fade" id="accounts">
         <div class="container">
@@ -272,7 +273,7 @@
   </div>
   [not-available=main]  </div> [/not-available]
 [available=main]</footer>[/available]
-</div>-->
+</div>
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>

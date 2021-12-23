@@ -238,13 +238,13 @@
       </div>
 
      
-    </div>[/not-available]
+    {* </div>[/not-available]
 [available=main]<div class="row">
   <div class="col-sm-12 mx-auto payments-index">
     <p>Способы оплаты</p>
     <img src="{THEME}/img/payment.png" alt="">
   </div>
-</div>[/available]
+</div>[/available] *}
 
 [available=main]<footer class="footer-index" >[/available]
    [not-available=main] <div class="container-fluid footer-bg">
@@ -262,12 +262,17 @@
           <ul>
             
 			<li><a href="/garant.html">Гарантии</a></li>
+      <li>|<li>
 			<li><a href="/rule.html">Пользовательское соглашение</a></li>
+      <li>|<li>
+      <li>Все права защищены</li>
           </ul>
-        <div class="izd-label">
-          Игры от издателей
+          <div class="image" style="margin-left: 195px;">
+        <a href="#"><img src="{THEME}/img/scalable-vector-graphics-social-media-youtube-logo-png-favpng-X24i5zHCJkRER9Uik7KY0htRs.jpg" alt="" class="izd"></a>
+        <a href="#"><img src="{THEME}/img/Steam-icon.png" alt="" class="izd"></a>
+        <a href="#"><img src="{THEME}/img/6360241_preview.png" alt="" class="izd"></a>
+        <a href="#"><img src="{THEME}/img/vk-cont.png" alt="" class="izd"></a>
         </div>
-        <img src="{THEME}/img/izd.png" alt="" class="izd">
       </div>
     </div>[not-available=main]</footer>[/not-available]
   </div>

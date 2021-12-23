@@ -156,9 +156,9 @@ body {
 
 .wrapper {
   box-shadow: 0 7px 40px 0 rgba(0, 0, 0, .1);
-  border-radius: 5px;
+  border-radius: 25px;
   background-color: #FCFCFF;
-  margin-top: 40px;
+  margin-top: -40px;
   padding: 20px 0 0
 }
 
@@ -537,7 +537,7 @@ footer ul li {
   padding-top: 1em;
   list-style: none;
   display: inline-block;
-  margin-left: 30px;
+  margin-left: 10px;
   font-size: .95em
 }
 
@@ -600,9 +600,10 @@ footer a:hover {
 }
 
 .izd {
-  margin-top: 15px;
-  float: left;
-  width: 610px
+  margin-top: 55px;
+  /* float: left; */
+  width: 39px;
+  height: 22px;
 }
 
 .izd-label {
@@ -914,9 +915,9 @@ div#ak {
   /* абсолютно позиционируем */
   position: absolute;
   /* относительно левого края панели */
-  left: 740px;
+  left: 320px;
   /* отступ от верхнего края панели */
-  top: 51px;
+  top: 1em;
   /* внутренние отступы */
   padding: 0.5em;
   /* определяем цвет фона переключателя

@@ -33,22 +33,22 @@
     <span class="navbar-text">
     <ul class="navbar-nav sale">
           <li class="nav-item headcrab nav-li-bg">
-            <a class="nav-link" href="/sale.html"><img src="{THEME}/img/sale-icon.png" alt="">Продать</a>
+            <a class="nav-link" href="/sale.html"><img src="{THEME}/img/sale-icon.png" alt="">ПРОДАТЬ</a>
           </li>  
           <li class="nav-item headcrab nav-li-bg">
-            <a class="nav-link" href="/reviews.html"><img src="{THEME}/img/reviews-icon.png" alt="">Отзывы</a>
+            <a class="nav-link" href="/reviews.html"><img src="{THEME}/img/reviews-icon.png" alt="">ОТЗЫВЫ</a>
           </li>
          <!-- <li class="nav-item headcrab nav-li-bg">
             <a class="nav-link" href="/garant.html"><img src="{THEME}/img/garant-icon.png" alt="">Гарантии</a>
           </li>-->
           <li class="nav-item headcrab nav-li-bg">
-            <a class="nav-link" href="/manual.html"><img src="{THEME}/img/heart-icon.png" alt="">Помощь</a>
+            <a class="nav-link" href="/manual.html"><img src="{THEME}/img/heart-icon.png" alt="">ПОМОЩЬ</a>
           </li>
           <li class="nav-item headcrab random-li nav-li-bg">
-            <a class="nav-link" href="/auction.html"><img src="{THEME}/img/envelope-icon.png" alt="">Аукцион</a>
+            <a class="nav-link" href="/auction.html"><img src="{THEME}/img/envelope-icon.png" alt="">АУКЦИОН</a>
           </li>
           <li class="nav-item headcrab random-li nav-li-bg auth">
-            <a class="nav-link" href="/reg.html"><img src="{THEME}/img/reg-icon.png" alt="">Авторизация</a>
+            <a class="nav-link" href="/reg.html"><img src="{THEME}/img/reg-icon.png" alt="">АВТОРИЗАЦИЯ</a>
           </li>
         </ul>
        <form action="" method="post" class="search">

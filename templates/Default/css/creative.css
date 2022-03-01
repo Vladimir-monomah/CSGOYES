@@ -16,7 +16,8 @@
 }
 
 * {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
   transition: .2s ease-out;
   outline: 0!important
 }
@@ -693,7 +694,7 @@ footer a:hover {
 	/* закругляем углы */
 	border-radius: 20px;
 
-	font: 13px Roboto;
+	font: 13px 'Roboto', sans-serif;
 	color: #555;
 	outline: none;
 }
@@ -817,7 +818,7 @@ div#ak {
     height: 135px;
     padding: 10px;
     text-align: center;
-    font: bold 15px/20px Roboto;
+    font: bold 15px/20px 'Roboto', sans-serif;
     background: rgba(0,0,0,0.5);
     opacity: 0;
     -webkit-transition: 0.4s;
@@ -831,6 +832,7 @@ div#ak {
 
   .colp{    
     text-align: center;
+    margin-left: 25px;
 }
 .colp-item{
     width: 23%;
@@ -1049,7 +1051,7 @@ div#ak {
     color: #dadada;
     text-decoration: none;
     text-transform: uppercase;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;;
 }
 
 /*плавное появление заголовка (логотипа) при раскрытии панели */

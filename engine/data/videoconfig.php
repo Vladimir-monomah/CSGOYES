@@ -1,16 +1,16 @@
-<?PHP 
+<?PHP
 
 //Videoplayers Configurations
 
 $video_config = array (
 
-'width' => '560',
+'width' => "560",
 
-'audio_width' => '560',
-
-'theme' => 'default',
+'audio_width' => "560",
 
 'preload' => '1',
+
+'theme' => 'default',
 
 );
 

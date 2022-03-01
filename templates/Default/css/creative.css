@@ -50,9 +50,9 @@ body {
   margin-top: 8px;
 }
 
-.navbar-nav a {
+/*.navbar-nav a {
   width: 133px;
-}
+}*/
 
 .navbar-nav li {
   height: 40px;
@@ -109,7 +109,8 @@ body {
 } */
 
 .navbar .nav-link img {
-  top: -2px
+  top: -2px;
+  right: -120px;
 }
 
 .random-li {
@@ -675,7 +676,7 @@ footer a:hover {
 /* стили для поля ввода */
 .search .input {
 	/* растягиваем поле ввода на всю ширину формы */
-	width: 100%;
+	width: 150%;
 
 	/* за счет верхнего (8px) и нижнего (9px) внутренних отступов
 	** регулируем высоту формы
@@ -692,7 +693,7 @@ footer a:hover {
 	box-shadow: inset 0 0 5px rgba(0,0,0,0.1), inset 0 1px 2px rgba(0,0,0,0.3);
 
 	/* закругляем углы */
-	border-radius: 20px;
+	border-radius: 10px;
 
 	font: 13px 'Roboto', sans-serif;
 	color: #555;
@@ -711,7 +712,7 @@ footer a:hover {
 	/* позиционируем кнопку абсолютно от правого края формы */
 	position: absolute;
 	top: 0;
-	right: 0;
+	right: -170px;
 
 	width: 37px;
 
@@ -719,7 +720,7 @@ footer a:hover {
 	height: 60px;
 
 	cursor: pointer;
-	background: url(https://lh4.googleusercontent.com/-b-5aBxcxarY/UAfFW9lVyjI/AAAAAAAABUg/gQtEXuPuIds/s13/go.png) 50% no-repeat;
+	background: url(https://s3-alpha-sig.figma.com/img/ac11/1f3c/eb9fdd8c15ed76a4192faee86b4af61b?Expires=1647216000&Signature=JG30RFPnhPk~wdl5TByxFjmrmq-3CvAKUpAlN9SYlg~VPPt6rCxamQULkv0I-24jo~MbKZua6KnuEce49ioAEQy6nWaYtkwn4QgEF2ylxScW301O-jrpGP5fVFJScwM8DNu5LehWZmAvCarg89BGLZcs5Nl7R0-IVkWq7-Zn0Ha6mhEB9gbEEIHvbRN58AW7FSb5zCemo0ct4vjO3RbrXsYeP7I-F9sre35Mi9613SanA2qolGu1Izaj3ycfaqUVzN8OFeKI-G7JvSJy~BO~tNNfskUoxXUKUi1OtvnCkKyakPxH4fWLYWNYfApO6f83jFWSXjB6moQk-pqU2DRg9Q__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA) 50% no-repeat;
 
 	/* добавляем прозрачность кнопке отправки */
 	opacity: 0.5;
@@ -755,28 +756,31 @@ input[type="search"] {
   position: absolute;
   background-color: #f9f9f9;
   width: 140px;
+  left: 195px;
+  top: -20px;
+  border-radius: 5px;
 }
 
 .dropbtn
 {
-background: url('http://icons.iconarchive.com/icons/custom-icon-design/flag-3/16/Russia-Flag-icon.png') no-repeat left center;
+background: url('https://s3-alpha-sig.figma.com/img/6292/a29b/2cf8dc61ae0e2fce3404e8f976058c1d?Expires=1647216000&Signature=ZZyB1VXrY52p2~KEEH462lZIf0HTyInXOXo-VgzHbsOp6ATirMUiwGWRnqJn5IN27f3n3VScojMVqqYpK0JFyPitQFO8LAfBsm6tx5YvLDauvxwjF4YPy2SD0lo5awr5ZQjaGT9SCl5qmskN35V-txYBSjXGYxaViWyzN6C~oTlobSjpFIKBL13lQwwi0~Lj2F1Rg58ABMKLBCYNrWCXO4XZdR-sOVx5qYjT1TZKkwlCyPZCBQhDelfaN5xZTzCG5gWs1dum49vcUnoeVIZoIbsylBusl62Y~QFKm7eQ94NIDl7slZgNoDlW8Iqb-Cc1RyboStvJ8T35gkgTKI0b6g__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA') no-repeat left center;
 padding-left: 25px;
 width: 40px;
 }
 
 .dropbtn::after {
-  background: rgba(0, 0, 0, 0) url("https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_keyboard_arrow_down_48px-16.png") no-repeat scroll center center;
+  background: rgba(0, 0, 0, 0) url("https://s3-alpha-sig.figma.com/img/bbb8/f217/78739d11568bc65aadea1066e8bc0094?Expires=1647216000&Signature=RKl-V78qa3Oi66xPp7rE0XOlatoJJMglhGF9Wbl7JEefjpOw1wY~Qvw6-0jfgwZ-0GyysYpyKNQUAQwXlafjN1FP5bhJ806cS1tauiumghGVGXodkXjtsadIqvhFCW1MHcAc0RfoX6MCwr8KNm31lIW~h6P1lnp15BiwGFtMJLofuXz6841wlcpdBanvHi-BXxTTTK6~xMLmxzA87KYe90FDUZK-hIUByjOGmNYpTr7WGKJokrxoly9zjFBmMOpY1Q1BomZMvHO8TYzRKlLq9XfZiVs~suO2DwlD7XqQhKno8GXoMUBE8UJ8i4WDXC1qSd~K8WAfKxc-wf1aHaMNYQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA") no-repeat scroll center center;
   content: "";
   height: 16px;
   position: absolute;
-  right: -12px;
-  top: 0px;
+  right: -17px;
+  top: 5px;
   width: 16px;
 }
 
 .dropdown-content a:first-child
 {
-background: url('http://icons.iconarchive.com/icons/custom-icon-design/flag-3/16/Russia-Flag-icon.png') no-repeat left center;
+background: url('https://s3-alpha-sig.figma.com/img/6292/a29b/2cf8dc61ae0e2fce3404e8f976058c1d?Expires=1647216000&Signature=ZZyB1VXrY52p2~KEEH462lZIf0HTyInXOXo-VgzHbsOp6ATirMUiwGWRnqJn5IN27f3n3VScojMVqqYpK0JFyPitQFO8LAfBsm6tx5YvLDauvxwjF4YPy2SD0lo5awr5ZQjaGT9SCl5qmskN35V-txYBSjXGYxaViWyzN6C~oTlobSjpFIKBL13lQwwi0~Lj2F1Rg58ABMKLBCYNrWCXO4XZdR-sOVx5qYjT1TZKkwlCyPZCBQhDelfaN5xZTzCG5gWs1dum49vcUnoeVIZoIbsylBusl62Y~QFKm7eQ94NIDl7slZgNoDlW8Iqb-Cc1RyboStvJ8T35gkgTKI0b6g__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA') no-repeat left center;
 }
 
 .dropdown-content a:last-child

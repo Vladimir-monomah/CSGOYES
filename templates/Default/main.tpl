@@ -13,51 +13,52 @@
 </head>
 <body>
 
-
-<input type="checkbox" id="nav-toggle" hidden>
-<nav class="nav">
-<label for="nav-toggle" class="nav-toggle" onclick></label>
-<h2 class="logo"> 
-            <a href="//CSGOYES.ru/">CSGOYES</a> 
-        </h2>
-        <ul>
-            <li><a href="#1">Counter-Strake</a>
-            <li><a href="#2">Dota 2</a>
-            <li><a href="#3">Rust</a>
-        </ul>
-</nav>
-
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container">
     <img src="{THEME}/img/youtube/avatar.jpg"  class="rounded-circle nav-avatar">
     <span class="navbar-text">
     <ul class="navbar-nav sale">
           <li class="nav-item headcrab nav-li-bg">
-            <a class="nav-link" href="/sale.html"><img src="{THEME}/img/sale-icon.png" alt="">ПРОДАТЬ</a>
+            <a class="nav-link" href="/sale.html">ПРОДАТЬ</a>
           </li>  
           <li class="nav-item headcrab nav-li-bg">
-            <a class="nav-link" href="/reviews.html"><img src="{THEME}/img/reviews-icon.png" alt="">ОТЗЫВЫ</a>
+            <a class="nav-link" href="/reviews.html">ОТЗЫВЫ</a>
           </li>
-         <!-- <li class="nav-item headcrab nav-li-bg">
-            <a class="nav-link" href="/garant.html"><img src="{THEME}/img/garant-icon.png" alt="">Гарантии</a>
-          </li>-->
           <li class="nav-item headcrab nav-li-bg">
-            <a class="nav-link" href="/manual.html"><img src="{THEME}/img/heart-icon.png" alt="">ПОМОЩЬ</a>
+            <a class="nav-link" href="/manual.html">ПОМОЩЬ</a>
+          </li>
+          <li class="nav-item headcrab nav-li-bg">
+            <a class="nav-link" href="/garant.html">ГАРАНТИИ</a>
+          </li>
+          <li class="nav-item headcrab nav-li-bg">
+            <a class="nav-link" href="/garant.html">ЗАДАТЬ ВОПРОС</a>
           </li>
           <li class="nav-item headcrab random-li nav-li-bg">
-            <a class="nav-link" href="/auction.html"><img src="{THEME}/img/envelope-icon.png" alt="">АУКЦИОН</a>
+            <a class="nav-link" href="/auction.html">АУКЦИОН</a>
           </li>
           <li class="nav-item headcrab random-li nav-li-bg auth">
-            <a class="nav-link" href="/reg.html"><img src="{THEME}/img/reg-icon.png" alt="">АВТОРИЗАЦИЯ</a>
+            <a class="nav-link" href="/reg.html"><img src="{THEME}/img/reg-icon.png" alt="">NICK NAME</a>
+            <img src="{THEME}/img/arrow.png" alt="" style="left: 1540px;
+    position: absolute;
+    width: 9px;
+    height: 15px;
+    top: 55px;
+    transform: rotate(90deg);">
           </li>
         </ul>
        <form action="" method="post" class="search">
-	<input type="search" name="" placeholder="Я ищу..." class="input" />
+	<input type="search" name="" placeholder="введите название игры" class="input" />
 	<input type="submit" name="" value="" class="submit" />
 </form>
 
 <div class="dropdown">
-  <div class="dropbtn">RU</div>
+  <div class="dropbtn" style="
+    width: 26px;
+    height: 25px;
+    position: absolute;
+    left: 145px;
+    top: -12px;
+"></div>
   <div class="dropdown-content">
     <a href="#">RU</a>
     <a href="#">EN</a>

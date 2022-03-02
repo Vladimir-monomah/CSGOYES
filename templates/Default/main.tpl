@@ -169,6 +169,10 @@
   </div>
 </div>
 
+    <img src="templates/Default/img/504c5f3187afabd523f5a178633881e7.png" alt="" style="    width: 970px;
+    position: relative;
+    padding-top: 10px;"></a>
+
 <div class="colp-item">
   <div class="colp-pict">
     <a href="#"><img src="templates/Default/img/471848-gamers-Hearthstone_Heroes_of_Warcraft-video_games.jpg" alt=""></a>
@@ -254,9 +258,9 @@
     <div class="row col-sm-12">
       <div class="col-sm-5 foo-left-box">
         <img src="{THEME}/img/youtube/avatar.jpg" alt="CSGOYES" class="rounded-circle nav-avatar footer-logo">
-        <div class="nav-logo"><span class="footer-ava-text">CSGOYES</span>
+        {* <div class="nav-logo"><span class="footer-ava-text">CSGOYES</span> *}
         </div>
-        <div class="footer-text-water">
+        {* <div class="footer-text-water">
           Тут Вы можете купить игры для Steam, Origin. В магазине действуют постоянные скидки, конкурсы, специальные предложения.        </div>
       </div>
       <div class="col-sm-7">
@@ -267,13 +271,97 @@
 			<li><a href="/rule.html">Пользовательское соглашение</a></li>
       <li>|<li>
       <li>Все права защищены</li>
-          </ul>
-          <div class="image" style="margin-left: 195px;">
+          </ul> *}
+
+<ul class="footer__nav">
+    <li class="nav__item">
+      <h2 class="nav__title">Главная</h2>
+
+      <ul class="nav__ul">
+        <li>
+          <a href="#">Отзыв</a>
+        </li>
+
+        <li>
+          <a href="#">Помощь</a>
+        </li>
+            
+        <li>
+          <a href="#">Гарантии</a>
+        </li>
+
+        <li>
+          <a href="#">Задать вопрос</a>
+        </li>
+      </ul>
+  </li>
+
+  <li class="nav__item nav__item--extra">
+      <h2 class="nav__title">Информация</h2>
+      
+      <ul class="nav__ul nav__ul--extra">
+        <li>
+          <a href="#">Политика приватности</a>
+        </li>
+        
+        <li>
+          <a href="#">Условия использования</a>
+        </li>
+        
+        <li>
+          <a href="#">Возврат средств</a>
+        </li>
+  </ul>
+  </li>
+
+ <li class="nav__item">
+      <h2 class="nav__title">Информация</h2>
+      
+      <ul class="nav__ul">
+        <li>
+          <a href="#">Политика приватности</a>
+        </li>
+        
+        <li>
+          <a href="#">Условия использования</a>
+        </li>
+        
+        <li>
+          <a href="#">Возврат средств</a>
+        </li>
+      </ul>
+</li>
+
+<li class="nav__item">
+      <h2 class="nav__title">Связаться с нами</h2>
+      
+      <ul class="nav__ul">
+        
+        <li>
+          <a href="#"><img src="templates/Default/img/0927639fba2678db1d04c68ab263ad06.png" alt=""></a>
+        </li>
+        
+        <li>
+          <a href="#"><img src="templates/Default/img/3c49c435b05b655c8a00ba406f737572.png" alt=""></a>
+        </li>
+
+        <li>
+          <a href="#"><img src="templates/Default/img/ee6f1453a19c33453119b8f3c49bbb98.png" alt=""></a>
+        </li>
+
+        <li>
+          <a href="#"><img src="templates/Default/img/d35a76dba2f61d279ee1fc59b020ff9a.png" alt=""></a>
+        </li>
+      </ul>
+</li>
+
+</ul>
+          {* <div class="image" style="margin-left: 195px;">
         <a href="#"><img src="{THEME}/img/scalable-vector-graphics-social-media-youtube-logo-png-favpng-X24i5zHCJkRER9Uik7KY0htRs.jpg" alt="" class="izd"></a>
         <a href="#"><img src="{THEME}/img/Steam-icon.png" alt="" class="izd"></a>
         <a href="#"><img src="{THEME}/img/6360241_preview.png" alt="" class="izd"></a>
         <a href="#"><img src="{THEME}/img/vk-cont.png" alt="" class="izd"></a>
-        </div>
+        </div> *}
       </div>
     </div>[not-available=main]</footer>[/not-available]
   </div>
